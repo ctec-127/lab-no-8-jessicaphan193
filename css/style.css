@@ -10,3 +10,26 @@ body {
 th a:link, th a:visited, th a:hover, th a:active {
     color: #ffffff;
 }
+
+.section {
+    width: 300px;
+
+}
+
+form {
+    width: 300px;
+    margin: auto;
+}
+
+.form-control {
+    width: 200px;
+    margin: 5px;
+}
+
+select {
+    height: 2em;
+}
+
+li {
+    margin: 10px;
+}
